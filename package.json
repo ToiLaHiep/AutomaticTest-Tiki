@@ -1,0 +1,16 @@
+{
+  "name": "automationtest-tiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose true"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-downloader": "^3.3.0",
+    "jest": "^22.4.0",
+    "puppeteer": "git+https://github.com/GoogleChrome/puppeteer.git"
+  }
+}
